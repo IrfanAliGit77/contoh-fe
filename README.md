@@ -68,3 +68,10 @@ Interested in collaborating or just want to say hi? Reach out to me at:
 
 ## 📄 License  
 This project is licensed under the **MIT License** – feel free to use it with attribution.  
+
+## NOTES
+--- 
+
+Ini adalah contoh pembaruan, tolong periksa
+
+---
